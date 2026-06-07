@@ -1,5 +1,5 @@
 [package]
-name = "splay-tree-rs"
+name = "superinstance-splay-tree"
 version = "0.1.0"
 edition = "2021"
 description = "Splay tree with zig/zig-zig/zig-zag operations, amortized O(log n) access, split/merge, sequential access optimization"
